@@ -1,2 +1,3 @@
-# First_repo
-This is my first repository 
+# First_repository
+This is my first Git repository 
+Author- Anurag
